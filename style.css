@@ -3,8 +3,13 @@ body{
 }
 h1{
     color: antiquewhite;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 .row{
     color: darkgoldenrod;
     background-color: black;
+}
+img{
+    border-radius: 10px;
 }
